@@ -1,0 +1,5 @@
+{
+  "name": "AutoRoster Gen",
+  "description": "An automatic staff roster generator that handles shift assignments, public holidays, compensation leave, and special requests.",
+  "requestFramePermissions": []
+}
